@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1007.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1001.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1002.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1003.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1004.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1005.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-线性结构1 两个有序链表序列的合并.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02-线性结构2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1006.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1074.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1008.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1051.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1009.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1010.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1011.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1012.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1013.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1013(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1014.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03-树1 树的同构 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1015.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="List Leaves.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1086.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1016(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1017.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1018.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1019.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-树4 是否同一棵二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1020.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1066.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04-树7 二叉搜索树的操作集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1064.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1021.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1023.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1022.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1024.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-树7 堆中的路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-树8 File Transfer .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05-树9 Huffman Codes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1025.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1026.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1028.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1027.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1029.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Saving James Bond - Easy Version.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-图3 六度空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1076.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06-图1 列出连通集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1030.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1031.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1032.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1033.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1034.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1034(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1035.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1036.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1037.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07-图4 哈利·波特的考试.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Saving James Bond - Hard Version.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07-图6 旅游规划.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1072.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1087.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1038.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1039.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1040.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1041.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1042.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1043.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1044.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-图7 公路村村通.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-图8 How Long Does It Take .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08-图9 关键活动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1045.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1047.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1048.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1049.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1050.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1052.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09-排序1 排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1089.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1098.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1053.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1055.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1056.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1057.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1054.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1058.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1059.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10-排序4 统计工龄.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1075.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1067.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1060.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1060(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1061.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1062.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1063.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1065.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1068.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1068(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1069.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-散列1 电话聊天狂人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1078.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-散列3 QQ帐户的申请与登陆 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-散列4 Hashing - Hard Version.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11-散列4 Hashing - Hard Version(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1070.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1071.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1073.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1077.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1079.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1080.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1081.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1082.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1083.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1084.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1085.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1088.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1090.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1091.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1092.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1093.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1094.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1095.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1096.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1 根据后序和中序遍历输出先序遍历 .cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1097.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1099.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1099(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1100.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1101.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1102.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1103.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1103(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1104.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1105.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1106.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1107.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1108.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1108(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1109.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1110.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1111.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1112.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1113.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1114.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1114(1).cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1115.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1116.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1117.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1118.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1119.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1120.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1121.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1122.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1123.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1124.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1125.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1126.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1127.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1128.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1129.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1130.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1131.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,184 @@
+﻿生成启动时间为 2017/7/5 15:50:01。
+     1>项目“E:\C++\devcpp\A+B Format\A+B Format\A+B Format.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (A+B Format.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         E:\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt 1001.cpp 1002.cpp 1007.cpp 1131.cpp
+         1131.cpp
+     1>e:\c++\devcpp\a+b format\a+b format\1131.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\c++\devcpp\a+b format\a+b format\1131.cpp(75): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         1007.cpp
+         1002.cpp
+         1001.cpp
+       Link:
+         E:\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\C++\devcpp\A+B Format\Debug\PAT.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\C++\devcpp\A+B Format\Debug\PAT.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\C++\devcpp\A+B Format\Debug\PAT.lib" /MACHINE:X86 "Debug\02-线性结构1 两个有序链表序列的合并.obj"
+         "Debug\02-线性结构2.obj"
+         "Debug\03-树1 树的同构 .obj"
+         "Debug\04-树4 是否同一棵二叉搜索树.obj"
+         "Debug\04-树7 二叉搜索树的操作集.obj"
+         "Debug\05-树7 堆中的路径.obj"
+         "Debug\05-树8 File Transfer .obj"
+         "Debug\05-树9 Huffman Codes.obj"
+         "Debug\06-图1 列出连通集.obj"
+         "Debug\06-图3 六度空间.obj"
+         "Debug\07-图4 哈利·波特的考试.obj"
+         "Debug\07-图6 旅游规划.obj"
+         "Debug\08-图7 公路村村通.obj"
+         "Debug\08-图8 How Long Does It Take .obj"
+         "Debug\09-排序1 排序.obj"
+         "Debug\1 根据后序和中序遍历输出先序遍历 .obj"
+         "Debug\10-排序4 统计工龄.obj"
+         Debug\1021.obj
+         Debug\1022.obj
+         Debug\1023.obj
+         Debug\1024.obj
+         Debug\1025.obj
+         Debug\1026.obj
+         Debug\1027.obj
+         Debug\1028.obj
+         Debug\1029.obj
+         Debug\1030.obj
+         Debug\1031.obj
+         Debug\1032.obj
+         Debug\1033.obj
+         "Debug\1034(1).obj"
+         Debug\1034.obj
+         Debug\1035.obj
+         Debug\1036.obj
+         Debug\1037.obj
+         Debug\1038.obj
+         Debug\1039.obj
+         Debug\1043.obj
+         Debug\1040.obj
+         Debug\1041.obj
+         Debug\1042.obj
+         Debug\1044.obj
+         Debug\1045.obj
+         Debug\1046.obj
+         Debug\1047.obj
+         Debug\1048.obj
+         Debug\1049.obj
+         Debug\1050.obj
+         Debug\1052.obj
+         Debug\1053.obj
+         Debug\1054.obj
+         Debug\1055.obj
+         Debug\1056.obj
+         Debug\1057.obj
+         Debug\1058.obj
+         Debug\1059.obj
+         "Debug\1060(1).obj"
+         Debug\1060.obj
+         Debug\1061.obj
+         Debug\1063.obj
+         Debug\1064.obj
+         Debug\1065.obj
+         Debug\1066.obj
+         Debug\1001.obj
+         Debug\1002.obj
+         Debug\1003.obj
+         Debug\1004.obj
+         Debug\1005.obj
+         Debug\1006.obj
+         Debug\1007.obj
+         Debug\1008.obj
+         Debug\1009.obj
+         Debug\1010.obj
+         Debug\1011.obj
+         Debug\1012.obj
+         "Debug\1013(1).obj"
+         Debug\1013.obj
+         Debug\1014.obj
+         Debug\1015.obj
+         "Debug\1016(1).obj"
+         Debug\1017.obj
+         Debug\1018.obj
+         Debug\1019.obj
+         Debug\1020.obj
+         Debug\1051.obj
+         Debug\1067.obj
+         "Debug\1068(1).obj"
+         Debug\1068.obj
+         Debug\1069.obj
+         Debug\1071.obj
+         Debug\1070.obj
+         Debug\1072.obj
+         Debug\1073.obj
+         Debug\1074.obj
+         Debug\1075.obj
+         Debug\1076.obj
+         Debug\1077.obj
+         Debug\1078.obj
+         Debug\1079.obj
+         Debug\1081.obj
+         Debug\1082.obj
+         Debug\1083.obj
+         Debug\1084.obj
+         Debug\1085.obj
+         Debug\1086.obj
+         Debug\1087.obj
+         Debug\1088.obj
+         Debug\1089.obj
+         Debug\1090.obj
+         Debug\1091.obj
+         Debug\1092.obj
+         Debug\1093.obj
+         Debug\1094.obj
+         Debug\1095.obj
+         Debug\1096.obj
+         Debug\1097.obj
+         Debug\1098.obj
+         Debug\1062.obj
+         "Debug\1099(1).obj"
+         Debug\1099.obj
+         "Debug\11-散列1 电话聊天狂人.obj"
+         "Debug\11-散列3 QQ帐户的申请与登陆 .obj"
+         "Debug\11-散列4 Hashing - Hard Version(1).obj"
+         "Debug\11-散列4 Hashing - Hard Version.obj"
+         Debug\1080.obj
+         Debug\1100.obj
+         Debug\1101.obj
+         Debug\1102.obj
+         "Debug\1103(1).obj"
+         Debug\1103.obj
+         Debug\1104.obj
+         Debug\1105.obj
+         Debug\1106.obj
+         Debug\1107.obj
+         "Debug\1108(1).obj"
+         Debug\1108.obj
+         Debug\1109.obj
+         Debug\1110.obj
+         Debug\1111.obj
+         Debug\1112.obj
+         Debug\1113.obj
+         "Debug\1114(1).obj"
+         Debug\1114.obj
+         Debug\1115.obj
+         Debug\1116.obj
+         Debug\1117.obj
+         Debug\1118.obj
+         Debug\1119.obj
+         Debug\1120.obj
+         Debug\1121.obj
+         Debug\1122.obj
+         Debug\1123.obj
+         Debug\1124.obj
+         Debug\1125.obj
+         Debug\1126.obj
+         Debug\1127.obj
+         Debug\1128.obj
+         Debug\1129.obj
+         Debug\1130.obj
+         Debug\1131.obj
+         "Debug\List Leaves.obj"
+         "Debug\Saving James Bond - Easy Version.obj"
+         "Debug\Saving James Bond - Hard Version.obj"
+         "Debug\08-图9 关键活动.obj"
+         A+B Format.vcxproj -> E:\C++\devcpp\A+B Format\Debug\PAT.exe
+     1>已完成生成项目“E:\C++\devcpp\A+B Format\A+B Format\A+B Format.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.49
